@@ -72,15 +72,12 @@ I'm currently looking for a **6-month PFE internship**, starting January/Februar
 
 ---
 
-### 📊 GitHub Stats
+### 🎤 Beyond code
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Walid-ALALOUCHE&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walid-ALALOUCHE&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</div>
+President of **The Great Debaters ENSA Fès**, 1st Prize at Vectoria Verba (English track), 2024. Debate is where I learned to argue a position under pressure and defend a technical decision clearly — turns out that's directly useful for code reviews and project defenses too.
 
 ---
 
 <div align="center">
-<i>Also active in debate — President of The Great Debaters ENSA Fès, 1st Prize at Vectoria Verba (English track), 2024.</i>
+<sub>Open to opportunities and always happy to talk AI, security, or engineering in general.</sub>
 </div>
